@@ -1,0 +1,1 @@
+//Attendee model here
